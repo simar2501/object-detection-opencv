@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+*.pyc
+.vscode/
+outputs/*.mp4
+samples/*
+!samples/.gitkeep
